@@ -1,0 +1,25 @@
+\input{hp-header}
+
+\begin{document}
+{
+\pagestyle{empty}
+
+\newcommand{\hpBookNo}{1}
+\newcommand{\hpBookChar}{Richard Severus Snape}
+\newcommand{\hpBookTitle}{Formatting That Needs Fixing}
+\newcommand{\hpBookChapters}{Chapters 1--21}
+\newcommand{\hpBookOther}{}
+\input{hp-titlepage}
+
+\pagenumbering{gobble}
+\input{hp-contents}
+\cleartorecto
+}
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\include{chapters/chapter1}
+
+
+\include{hp-colophon}
+\end{document}
