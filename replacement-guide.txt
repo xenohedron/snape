@@ -1,0 +1,22 @@
+Replacements
+
+' Opening single quote, change to `
+\emph{Date and moon phase} to \subsection{}
+
+Simple find/replace:
+
+...
+{\el}
+
+ - 
+—
+
+Mr. 
+Mr.~
+
+Mrs. 
+Mrs.~
+
+St. Pancras
+St.~Pancras
+
