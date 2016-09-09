@@ -20,3 +20,5 @@ Mrs.~
 St. Pancras
 St.~Pancras
 
+
+Regex for unbalanced quotes: ^[^"]*\K"(?=[^"]*$)
