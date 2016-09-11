@@ -1,0 +1,90 @@
+\parbox{0pt}{\hspace{0pt}%
+Gryffindor Ravenclaw Slytherin Hufflepuff Hogwarts Wizengamot}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+McGonagall Flitwick Severus Minerva Filius Sinistra Quirrell
+Quirinus Malfoy Potter Weasley Hermione Granger}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Herbology Charms Potions Defense Astronomy Magical Auror Aurora}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Lestrange Bellatrix Voldemort Scrimgeour Moody Alastor}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Harry Ronald Neville Longbottom Rosier Wilkes Mulciber Aloysius}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Arithmancy Yaxley Albus Percival Wulfric Brian Pomona Sprout}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Sirius Remus Lupin Pettigrew Greyback Fenrir Fidelius}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Expelliarmus Protego Contego Stupefy Levicorpus Liberacorpus}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+muggle mudblood muggles occlumency legilimency sectumsempra}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Paladin Wintergreen Macdonald Carmichael Valeria Aurifosser}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Gilderoy Lockhart Dolores Umbridge Rubeus Hagrid Avada Kedavra}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+apparate apparition Lancashire Constantina Mullein Kettleburn}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Scourgify cribbage Alohomora transfiguration Pomfrey Rodolphus}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Rabastan Dedalus Diggle Emmeline Arthur Mundungus Fletcher Wildacre}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Mitchell Hogsmeade Manchester gobstones Colne Quidditch Bludger}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Snivellus Wilhelmina Muffliato Rossendale Lucius Narcissa Andromeda}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Nymphadora Hestia Veritaserum Regulus Carrow Amycus Alecto Sybill}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Trelawney Karkaroff Horace Slughorn Azkaban Futhark Shakespeare}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Gawain Robards Amelia Parseltongue Parselmouth Finch-Fletchley}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+patronus patronum expecto Fawkes Polyjuice Creevey Myrtle Millicent}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Bulstrode Clearwater Horcrux Penelope werewolf Cornelius Burbage}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+polyjuiced dementor dementors Vincent Crabbe Gregory Goyle Hippogriff}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Sirius grindylow grindylows flobberworm flobberworms riddikulus}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Wolfsbane Musketeers Divination galleon galleons sickle sickles}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Macnair animagus animagi Triwizard Beauxbatons Durmstrang Witchcraft}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+wizardry Maxime Delacour Dursley Dursleys Diggory Skeeter poltergeist}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Peeves Elphias Aberforth Sturgis Grubbly-Plank Kingsley Shacklebolt}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+pensieve Birmingham basilisk Ollivander Grimmauld Peverell Phineas}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Nigellus Nagini Armando Dippet horcruxes McKinnon Snorkack Florean}
+\clearpage
+\parbox{0pt}{\hspace{0pt}%
+Fortescue}

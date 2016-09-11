@@ -21,4 +21,4 @@ St. Pancras
 St.~Pancras
 
 
-Regex for unbalanced quotes: ^[^"]*\K"(?=[^"]*$)
+Regex for unbalanced quotes: ^[^"]*("[^"]*"[^"]*)*\K"(?=[^"]*$)

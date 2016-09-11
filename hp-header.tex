@@ -26,6 +26,8 @@
 \usepackage{ucntn}          % Provides \NUMTONAME for all caps output
 \usepackage{graphicx}       % for \reflectbox in header
 
+\input{ushyphex}            % US Hyphenation exceptions
+
 %
 % Set-up page sizes and margins
 %
@@ -134,12 +136,12 @@
 \setlength{\emergencystretch}{.08\textwidth}
 % If a paragraph cannot be typeset without compromises, try wider line spacing
 %
-\clubpenalty=80 % Mildly discourages first line of paragraph on previous page
+\clubpenalty=95 % Mildly discourages first line of paragraph on previous page
 \widowpenalty=2000 % Avoids last line of paragraph on next page
 \brokenpenalty=9000 % Avoids hyphenation across a page break
-\hyphenpenalty=70 % Penalty for automatic hyphenation
-\exhyphenpenalty=90 % Penalty for breaking after a dash or explicit hyphen
-\doublehyphendemerits=90000 % Avoids hyphenation on consecutive lines
+\hyphenpenalty=90 % Penalty for automatic hyphenation
+\exhyphenpenalty=130 % Penalty for breaking after a dash or explicit hyphen
+\doublehyphendemerits=900000 % Avoids hyphenation on consecutive lines
 \hbadness=4000 % When compiling, only reports underfull lines if badness>4000
 
 %
@@ -266,7 +268,11 @@
 %
 % Hyphenation corrections
 %
-\hyphenation{Her-mi-o-ne Gran-ger bru-shes Gryf-fin-dor Le-strange 
-some-where which-ev-er Hog-warts re-pli-cat-ed ran-dom sta-tis-ti-cal 
-Wi-zen-gam-ot an-aly-se an-aly-sis re-mem-ber McGon-a-gall fun-da-men-tal
-Dum-ble-dore thou-sand re-cu-per-ating whom-ev-er}
+\hyphenation{Gryf-fin-dor Huf-fle-puff Sly-the-rin Wi-zen-ga-mot
+McGon-a-gall Dum-ble-dore Malfoy Potter Her-mione Flit-wick
+Vol-de-mort Le-strange Gil-deroy Car-michael Con-stan-tina Scour-gify
+Alo-ho-mora Mun-dun-gus Hogs-meade Ros-sen-dale Nym-pha-dora
+Ver-i-ta-serum Tre-lawney Az-ka-ban Poly-juice Sirius basi-lisk
+Phi-neas McKin-non Filius Quiri-nus whom-ever}
+
+
