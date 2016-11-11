@@ -33,7 +33,7 @@
 %
 \setstocksize{9in}{6in}
 \settrimmedsize{\stockheight}{\stockwidth}{*}
-\settypeblocksize{7.2in}{4.31in}{*}
+\settypeblocksize{7.34in}{4.31in}{*}
 \setlrmargins{*}{*}{0.65}
 \setulmargins{*}{*}{0.8}
 \setheadfoot{\topskip + \baselineskip}{2\baselineskip}
@@ -130,19 +130,20 @@
 %
 \linespread{1.17} % Wider line spacing looks much better
 \raggedbottom     % Better to have consistent line spacing than vertically justified text
-%\sloppybottom     % Allows widow lines to be added to the bottom of the page.
+% \sloppybottom     % Allows widow lines to be added to the bottom of the page.
 \frenchspacing    % Single space after a period
 %
-\setlength{\emergencystretch}{.08\textwidth}
+\setlength{\emergencystretch}{.07\textwidth}
 % If a paragraph cannot be typeset without compromises, try wider line spacing
 %
-\clubpenalty=95 % Mildly discourages first line of paragraph on previous page
-\widowpenalty=2000 % Avoids last line of paragraph on next page
-\brokenpenalty=9000 % Avoids hyphenation across a page break
-\hyphenpenalty=90 % Penalty for automatic hyphenation
-\exhyphenpenalty=130 % Penalty for breaking after a dash or explicit hyphen
-\doublehyphendemerits=900000 % Avoids hyphenation on consecutive lines
-\hbadness=4000 % When compiling, only reports underfull lines if badness>4000
+\clubpenalty=80 % Mildly discourages first line of paragraph on previous page
+\widowpenalty=9000 % Avoids last line of paragraph on next page
+\brokenpenalty=2000 % Avoids hyphenation across a page break
+\hyphenpenalty=60 % Penalty for automatic hyphenation
+\exhyphenpenalty=75 % Penalty for breaking after a dash or explicit hyphen
+\adjdemerits=80000 % Penalty for visually incompatible lines
+\doublehyphendemerits=70000 % Avoids hyphenation on consecutive lines
+\hbadness=5000 % When compiling, only reports underfull lines if badness>4000
 
 %
 % Adjust space around lists (not entirely sure why)
@@ -273,6 +274,5 @@ McGon-a-gall Dum-ble-dore Malfoy Potter Her-mione Flit-wick
 Vol-de-mort Le-strange Gil-deroy Car-michael Con-stan-tina Scour-gify
 Alo-ho-mora Mun-dun-gus Hogs-meade Ros-sen-dale Nym-pha-dora
 Ver-i-ta-serum Tre-lawney Az-ka-ban Poly-juice Sirius basi-lisk
-Phi-neas McKin-non Filius Quiri-nus whom-ever}
-
+Phi-neas McKin-non Filius Quiri-nus Love-good whom-ever}
 
